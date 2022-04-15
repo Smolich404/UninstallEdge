@@ -1,2 +1,2 @@
-# UninstallEdge
-Uninstall Edge with AppxPackage
+# Uninstall Edge
+Uninstall Edge With AppxPackage
